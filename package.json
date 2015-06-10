@@ -1,0 +1,10 @@
+{
+  "name": "flatten",
+  "version": "1.0.0",
+  "description": "flatten an array of arbitrarily nested arrays of integers into a flat array of integers",
+  "main": "index.js",
+  "dependencies": {
+    "mocha": "2.0.1"
+  },
+  "author": "Jason Marah"
+}
